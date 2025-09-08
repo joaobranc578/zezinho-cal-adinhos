@@ -1,13 +1,25 @@
 import './App.css'
-import Banner from './components/Banner'
 import Topo from './components/Topo'
+import Banner from './components/Banner'
+import Produtos from './components/Produtos'
 
 function App() {
 
   return (
     <>
+    <header>
      <Topo/>
-     <Banner/> 
+    </header>
+
+    <main>
+     <Banner/>
+      <Produtos/> 
+    </main>
+
+    
+
+
+
     </>
   )
 }
