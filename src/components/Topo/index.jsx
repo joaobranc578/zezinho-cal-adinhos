@@ -13,7 +13,7 @@
                     <div className='topo'>
                         <picture>
                             <a href="#">
-                                <img src="/img/logoLoja.png" alt="" />
+                                <img src="./logoLoja.png" alt="" />
                             </a>
                         </picture>
 
